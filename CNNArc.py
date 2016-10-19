@@ -1,6 +1,4 @@
 """
-Author : Gowdhaman Sadhasivam
-
 Description :  Age classification to the nearest decade using Convolutional Neural Network
                 Given input images are labelled with 10 class,
                 class 1: [0 - 10 yrs]
